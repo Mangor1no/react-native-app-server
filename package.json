@@ -1,0 +1,17 @@
+{
+    "name": "NodeServer",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "dependencies": {
+        "axios": "^0.19.2",
+        "express": "^4.17.1",
+        "http-server": "^0.12.3",
+        "mongoose": "^5.9.27",
+        "nodemon": "^2.0.4",
+        "puppeteer": "^5.2.1"
+    }
+}
